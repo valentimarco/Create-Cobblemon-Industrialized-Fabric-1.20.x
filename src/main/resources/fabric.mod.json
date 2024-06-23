@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "create_cobblemon",
+	"version": "${version}",
+	"name": "Create: Cobblemon Industrialized",
+	"description": "Compatibility between Create & Cobblemon.",
+	"authors": [
+		"Lord_Of_Crumbs",
+		"Bracken40"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/create-cobblemon-industrialized"
+	},
+	"license": "All Rights Reserved",
+	"icon": "assets/create_cobblemon/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.crumbs.createcobblemon.CreateCobblemonIndustrialized"
+		],
+		"client": [
+			"net.crumbs.createcobblemon.CreateCobblemonIndustrializedClient"
+		],
+		"fabric-datagen": [
+			"net.crumbs.createcobblemon.CreateCobblemonIndustrializedDataGenerator"
+		]
+	},
+	"mixins": [
+		"create_cobblemon.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
