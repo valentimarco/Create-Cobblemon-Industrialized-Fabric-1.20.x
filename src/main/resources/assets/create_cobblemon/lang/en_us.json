@@ -1,0 +1,9 @@
+{
+  ### Ball Lids
+  "item.create_cobblemon.red_ball_lid": "Red Ball Lid",
+  "item.create_cobblemon.blue_ball_lid": "Blue Ball Lid",
+
+
+  ### Misc
+  "itemgroup.create_cobblemon": "Create: Cobblemon Industrialized"
+}
