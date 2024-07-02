@@ -1,5 +1,6 @@
 package net.crumbs.createcobblemon;
 
+import net.crumbs.createcobblemon.block.ModBlocks;
 import net.crumbs.createcobblemon.item.ModItemGroups;
 import net.crumbs.createcobblemon.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -15,5 +16,6 @@ public class CreateCobblemonIndustrialized implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
