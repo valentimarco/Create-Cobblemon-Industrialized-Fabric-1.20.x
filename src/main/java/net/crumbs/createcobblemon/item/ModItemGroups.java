@@ -14,13 +14,14 @@ public class ModItemGroups {
     public static final ItemGroup CREATE_COBBLEMON = Registry.register(Registries.ITEM_GROUP,
             new Identifier(CreateCobblemonIndustrialized.MOD_ID, "create_cobblemon"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.create_cobblemon"))
-                    .icon(() -> new ItemStack(ModItems.RED_BALL_LID)).entries((displayContext, entries) -> {
+                    .icon(() -> new ItemStack(ModItems.INCOMPLETE_POKE_BALL)).entries((displayContext, entries) -> {
                         entries.add(ModItems.EXP_QUARTZ);
                         entries.add(ModItems.CRUSHED_EXP_QUARTZ);
                         entries.add(ModBlocks.EXPQUARTZBLOCK);
                         entries.add(ModBlocks.EXP_QUARTZ_TILES);
                         entries.add(ModBlocks.EXP_QUARTZ_SMALL_TILES);
 
+                        entries.add(ModItems.IRON_BALL_BASE);
                         entries.add(ModItems.RED_BALL_LID);
                         entries.add(ModItems.YELLOW_BALL_LID);
                         entries.add(ModItems.GREEN_BALL_LID);
@@ -52,7 +53,7 @@ public class ModItemGroups {
                         entries.add(ModItems.DREAM_BALL_LID);
                         entries.add(ModItems.BEAST_BALL_LID);
                         entries.add(ModItems.MASTER_BALL_LID);
-                        entries.add(ModItems.INCOMPLETE_MASTER_BALL_LID);
+
                         entries.add(ModItems.TUMBLESTONE_LID);
                         entries.add(ModItems.SKY_TUMBLESTONE_LID);
                         entries.add(ModItems.BLACK_TUMBLESTONE_LID);
