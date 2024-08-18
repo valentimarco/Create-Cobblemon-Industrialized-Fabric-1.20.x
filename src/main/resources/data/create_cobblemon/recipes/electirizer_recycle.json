@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cobblemon:electirizer"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 5,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:redstone"
+    },
+    {
+      "count": 3,
+      "item": "minecraft:glowstone_dust"
+    }
+  ]
+}

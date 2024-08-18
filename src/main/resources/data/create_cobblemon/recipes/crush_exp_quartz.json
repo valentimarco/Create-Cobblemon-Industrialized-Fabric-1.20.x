@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create_cobblemon:exp_quartz"
+    }
+  ],
+  "processingTime": 250,
+  "results": [
+    {
+      "item": "create_cobblemon:crushed_exp_quartz",
+      "count": 2
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.75
+    },
+    {
+      "item": "minecraft:redstone",
+      "chance": 0.25
+    }
+  ]
+}

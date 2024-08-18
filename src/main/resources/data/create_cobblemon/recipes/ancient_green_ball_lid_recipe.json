@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create_cobblemon:tumblestone_lid"
+    },
+    {
+      "item": "minecraft:green_dye"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_cobblemon:ancient_green_ball_lid"
+    }
+  ]
+}

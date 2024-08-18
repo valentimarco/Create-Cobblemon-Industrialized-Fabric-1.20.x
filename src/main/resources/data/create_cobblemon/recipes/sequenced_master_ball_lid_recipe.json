@@ -1,0 +1,71 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:shulker_shell"
+  },
+  "transitionalItem": {
+    "item": "create_cobblemon:incomplete_master_ball_lid"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_cobblemon:incomplete_master_ball_lid"
+        },
+        [
+          {
+            "tag": "create:sandpaper"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_cobblemon:incomplete_master_ball_lid"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_cobblemon:incomplete_master_ball_lid"
+        },
+        [
+          {
+            "item": "minecraft:netherite_ingot"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_cobblemon:incomplete_master_ball_lid"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_cobblemon:incomplete_master_ball_lid"
+        },
+        [
+          {
+            "item": "minecraft:netherite_ingot"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_cobblemon:incomplete_master_ball_lid"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "create_cobblemon:master_ball_lid"
+    }
+  ],
+  "loops": 1
+}

@@ -1,0 +1,53 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_cobblemon:black_ball_lid"
+  },
+  "transitionalItem": {
+    "item": "create_cobblemon:incomplete_slate_ball"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_cobblemon:incomplete_slate_ball"
+        },
+        [
+          {
+            "item": "create_cobblemon:iron_ball_base"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_cobblemon:incomplete_slate_ball"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_cobblemon:incomplete_slate_ball"
+        },
+        [
+          {
+            "item": "create:copper_nugget"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_cobblemon:incomplete_slate_ball"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "cobblemon:slate_ball"
+    }
+  ],
+  "loops": 1
+}

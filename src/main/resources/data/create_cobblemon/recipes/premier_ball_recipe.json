@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone"
+    },
+    "1": {
+      "item": "cobblemon:red_apricorn"
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    },
+    "3": {
+      "item": "cobblemon:black_apricorn"
+    },
+    "4": {
+      "item": "minecraft:iron_ingot"
+    },
+    "5": {
+      "item": "cobblemon:black_apricorn"
+    },
+    "6": {
+      "item": "minecraft:redstone"
+    },
+    "7": {
+      "item": "cobblemon:red_apricorn"
+    },
+    "8": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "cobblemon:cherish_ball",
+    "count": 1
+  }
+}

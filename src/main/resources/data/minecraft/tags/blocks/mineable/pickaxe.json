@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "create_cobblemon:expquartzblock",
+    "create_cobblemon:exp_quartz_tiles",
+    "create_cobblemon:exp_quartz_small_tiles"
+  ]
+}

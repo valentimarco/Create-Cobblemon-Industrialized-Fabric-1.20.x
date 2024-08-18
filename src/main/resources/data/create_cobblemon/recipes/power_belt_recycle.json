@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cobblemon:power_belt"  
+    }
+      ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:granite"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:diamond"
+    },
+    {
+      "count": 1,
+      "item": "cobblemon:blue_mint_seeds"
+    }
+  ]
+}

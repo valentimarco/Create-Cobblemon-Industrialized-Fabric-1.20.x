@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "create_cobblemon:exp_quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "cobblemon:exp_candy_m"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cobblemon:exp_candy_xs"
+    }
+  ],
+  "processingTime": 100,
+  "results": [
+    {
+      "item": "minecraft:redstone",
+      "chance": 0.75
+    }
+  ]
+}

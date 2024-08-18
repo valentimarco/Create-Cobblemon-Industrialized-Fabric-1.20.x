@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "create_cobblemon:block/exp_quartz_tiles",
+    "up": "create_cobblemon:block/exp_quartz_tiles",
+    "north": "create_cobblemon:block/exp_quartz_tiles",
+    "east": "create_cobblemon:block/exp_quartz_tiles",
+    "south": "create_cobblemon:block/exp_quartz_tiles",
+    "west": "create_cobblemon:block/exp_quartz_tiles",
+    "particle": "create_cobblemon:block/exp_quartz_tiles"
+  },
+  "render_type": "solid"
+}

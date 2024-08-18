@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create_cobblemon:great_ball_lid"
+    },
+    {
+      "item": "minecraft:pink_dye"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_cobblemon:dream_ball_lid"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cobblemon:sachet"  
+    }
+      ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:string"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:pink_dye"
+    }
+  ]
+}

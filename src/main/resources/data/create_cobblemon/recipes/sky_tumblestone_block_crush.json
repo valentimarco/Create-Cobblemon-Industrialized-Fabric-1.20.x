@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cobblemon:sky_tumblestone_block"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 3,
+      "item": "cobblemon:sky_tumblestone"
+    },
+    {
+      "chance": 0.5,
+      "item": "cobblemon:sky_tumblestone"
+    }
+  ]
+}

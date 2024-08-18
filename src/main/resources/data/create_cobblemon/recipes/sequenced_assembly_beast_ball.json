@@ -1,0 +1,53 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_cobblemon:beast_ball_lid"
+  },
+  "transitionalItem": {
+    "item": "create_cobblemon:incomplete_beast_ball"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_cobblemon:incomplete_beast_ball"
+        },
+        [
+          {
+            "item": "create_cobblemon:iron_ball_base"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_cobblemon:incomplete_beast_ball"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_cobblemon:incomplete_beast_ball"
+        },
+        [
+          {
+            "item": "create:brass_nugget"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_cobblemon:incomplete_beast_ball"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "cobblemon:beast_ball"
+    }
+  ],
+  "loops": 1
+}

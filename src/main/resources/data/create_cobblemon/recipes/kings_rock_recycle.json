@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cobblemon:kings_rock"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 3,
+      "item": "minecraft:sand"
+    },
+    {
+      "count": 2,
+      "item": "create:crushed_raw_gold"
+    }
+  ]
+}

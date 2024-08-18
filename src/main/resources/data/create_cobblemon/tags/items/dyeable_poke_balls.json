@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "cobblemon:poke_ball",
+    "cobblemon:citrine_ball",
+    "cobblemon:verdant_ball",
+    "cobblemon:azure_ball",
+    "cobblemon:roseate_ball",
+    "cobblemon:slate_ball",
+    "cobblemon:premier_ball"
+  ]
+}

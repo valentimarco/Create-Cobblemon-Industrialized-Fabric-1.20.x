@@ -1,0 +1,53 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_cobblemon:ultra_ball_lid"
+  },
+  "transitionalItem": {
+    "item": "create_cobblemon:incomplete_ultra_ball"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_cobblemon:incomplete_ultra_ball"
+        },
+        [
+          {
+            "item": "create_cobblemon:iron_ball_base"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_cobblemon:incomplete_ultra_ball"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_cobblemon:incomplete_ultra_ball"
+        },
+        [
+          {
+            "item": "minecraft:gold_nugget"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_cobblemon:incomplete_ultra_ball"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "cobblemon:ultra_ball"
+    }
+  ],
+  "loops": 1
+}

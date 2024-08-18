@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cobblemon:reaper_cloth"  
+    }
+      ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:phantom_membrane"
+    },
+    {
+      "count": 2,
+      "item": "minecraft:gray_wool"
+    }
+  ]
+}

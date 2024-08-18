@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "create_cobblemon:exp_quartz"
+  },
+  "result": "create_cobblemon:exp_quartz_small_tiles"
+}

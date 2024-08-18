@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "create_cobblemon:sky_tumblestone_buds"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 1,
+      "item": "cobblemon:sky_tumblestone"
+    },
+    {
+      "chance": 0.75,
+      "item": "cobblemon:sky_tumblestone"
+    }
+  ]
+}

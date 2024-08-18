@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create_cobblemon:green_ball_lid"
+    },
+    {
+      "item": "minecraft:black_dye"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_cobblemon:dusk_ball_lid"
+    }
+  ]
+}

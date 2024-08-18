@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cobblemon:peat_block"  
+    }
+      ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:dirt"
+    },
+    {
+      "count": 5,
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:bone_meal"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_cobblemon:dive_ball_lid"
+  },
+  "transitionalItem": {
+    "item": "create_cobblemon:incomplete_dive_ball"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_cobblemon:incomplete_dive_ball"
+        },
+        [
+          {
+            "item": "create_cobblemon:iron_ball_base"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_cobblemon:incomplete_dive_ball"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_cobblemon:incomplete_dive_ball"
+        },
+        [
+          {
+            "item": "minecraft:iron_nugget"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_cobblemon:incomplete_dive_ball"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "cobblemon:dive_ball"
+    }
+  ],
+  "loops": 1
+}

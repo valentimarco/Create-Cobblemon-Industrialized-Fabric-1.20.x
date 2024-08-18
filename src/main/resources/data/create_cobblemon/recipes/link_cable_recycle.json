@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cobblemon:link_cable"  
+    }
+      ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 4,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "count": 1,
+      "item": "create:copper_nugget"
+    }
+  ]
+}

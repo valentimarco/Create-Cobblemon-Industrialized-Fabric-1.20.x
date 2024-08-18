@@ -1,0 +1,17 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create:golden_sheet"
+    },
+    {
+      "item": "minecraft:echo_shard"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_cobblemon:beast_ball_lid",
+      "count": 2
+    }
+  ]
+}

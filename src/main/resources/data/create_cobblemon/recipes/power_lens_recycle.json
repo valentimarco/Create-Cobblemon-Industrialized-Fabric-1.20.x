@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cobblemon:power_lens"  
+    }
+      ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 2,
+      "item": "minecraft:granite"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:diamond"
+    },
+    {
+      "count": 1,
+      "item": "cobblemon:cyan_mint_seeds"
+    }
+  ]
+}

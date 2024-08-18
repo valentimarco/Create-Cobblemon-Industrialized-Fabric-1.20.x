@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "cobblemon:vivichoke"
+    },
+    {
+      "amount": 40500,
+      "fluidTag": "c:milk"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "results": [
+    {
+      "item": "cobblemon:vivichoke_dip"
+    }
+  ]
+}

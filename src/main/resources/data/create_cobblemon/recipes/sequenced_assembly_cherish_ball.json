@@ -1,0 +1,71 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create_cobblemon:red_ball_lid"
+  },
+  "transitionalItem": {
+    "item": "create_cobblemon:incomplete_cherish_ball"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_cobblemon:incomplete_cherish_ball"
+        },
+        [
+          {
+            "item": "create_cobblemon:red_ball_lid"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_cobblemon:incomplete_cherish_ball"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_cobblemon:incomplete_cherish_ball"
+        },
+        [
+          {
+            "item": "minecraft:redstone"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_cobblemon:incomplete_cherish_ball"
+        }
+      ]
+    },
+    {
+    "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_cobblemon:incomplete_cherish_ball"
+        },
+        [
+          {
+            "item": "create:copper_nugget"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create_cobblemon:incomplete_cherish_ball"
+        }
+      ]
+    }
+  ],
+  "r	esults": [
+    {
+      "item": "cobblemon:cherish_ball"
+    }
+  ],
+  "loops": 1
+}

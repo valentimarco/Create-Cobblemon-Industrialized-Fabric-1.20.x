@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cobblemon:whipped_dream"  
+    }
+      ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 4,
+      "item": "minecraft:sugar"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:sweet_berries"
+    }
+  ]
+}

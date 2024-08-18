@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cobblemon:magmarizer"  
+    }
+      ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 8,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "count": 1,
+      "item": "minecraft:blaze_powder"
+    }
+  ]
+}

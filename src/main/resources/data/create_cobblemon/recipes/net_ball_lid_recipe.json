@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create_cobblemon:blue_ball_lid"
+    },
+    {
+      "item": "minecraft:black_dye"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_cobblemon:net_ball_lid"
+    }
+  ]
+}

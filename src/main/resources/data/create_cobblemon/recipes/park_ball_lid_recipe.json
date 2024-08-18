@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create_cobblemon:green_ball_lid"
+    },
+    {
+      "item": "minecraft:lime_dye"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_cobblemon:park_ball_lid"
+    }
+  ]
+}

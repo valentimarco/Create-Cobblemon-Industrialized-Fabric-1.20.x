@@ -1,0 +1,14 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+    	{
+    		"item": "cobblemon:blue_apricorn"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "create_cobblemon:blue_ball_lid",
+			"count": 1
+		}
+	]
+}

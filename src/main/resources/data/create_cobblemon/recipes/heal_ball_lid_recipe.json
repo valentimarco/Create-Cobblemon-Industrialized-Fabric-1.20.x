@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create_cobblemon:pink_ball_lid"
+    },
+    {
+      "item": "minecraft:white_dye"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_cobblemon:heal_ball_lid"
+    }
+  ]
+}

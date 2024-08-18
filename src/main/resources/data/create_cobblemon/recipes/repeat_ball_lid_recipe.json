@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create_cobblemon:level_ball_lid"
+    },
+    {
+      "item": "minecraft:yellow_dye"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_cobblemon:repeat_ball_lid"
+    }
+  ]
+}

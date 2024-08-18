@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "create_cobblemon:ancient_wing_ball_lid"
+    },
+    {
+      "item": "minecraft:gold_nugget"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_cobblemon:ancient_jet_ball_lid"
+    }
+  ]
+}

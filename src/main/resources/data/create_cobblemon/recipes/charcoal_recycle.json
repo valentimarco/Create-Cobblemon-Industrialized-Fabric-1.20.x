@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "cobblemon:charcoal_stick"  
+    }
+      ],
+  "processingTime": 150,
+  "results": [
+    {
+      "count": 1,
+      "item": "minecraft:charcoal"
+    },
+    {
+      "chance": 0.5,
+      "item": "minecraft:charcoal"
+    },
+    {
+      "chance": 0.05,
+      "item": "cobblemon:fire_stone"
+    }
+  ]
+}

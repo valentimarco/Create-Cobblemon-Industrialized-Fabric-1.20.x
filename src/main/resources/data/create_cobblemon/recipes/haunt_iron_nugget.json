@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_nugget"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:copper_nugget"
+    }
+  ]
+}

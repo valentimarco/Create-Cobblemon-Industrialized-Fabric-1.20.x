@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "create_cobblemon:dyeable_ancient_balls"
+    },
+    {
+      "item": "minecraft:white_dye"
+    }
+  ],
+  "result": {
+    "item": "cobblemon:ancient_ivory_ball",
+    "count": 1
+  }
+}

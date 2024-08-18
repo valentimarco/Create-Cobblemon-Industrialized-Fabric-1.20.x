@@ -62,13 +62,13 @@ public class ModItems {
     public static final Item ANCIENT_GIGATON_BALL_LID = registerItem("ancient_gigaton_ball_lid", new Item(new FabricItemSettings()));
 
     // Incomplete Balls
-    public static final Item INCOMPLETE_RED_BALL = registerItem("incomplete_red_ball", new Item(new FabricItemSettings()));
-    public static final Item INCOMPLETE_BLUE_BALL = registerItem("incomplete_blue_ball", new Item(new FabricItemSettings()));
-    public static final Item INCOMPLETE_YELLOW_BALL = registerItem("incomplete_yellow_ball", new Item(new FabricItemSettings()));
-    public static final Item INCOMPLETE_GREEN_BALL = registerItem("incomplete_green_ball", new Item(new FabricItemSettings()));
-    public static final Item INCOMPLETE_PINK_BALL = registerItem("incomplete_pink_ball", new Item(new FabricItemSettings()));
-    public static final Item INCOMPLETE_BLACK_BALL = registerItem("incomplete_black_ball", new Item(new FabricItemSettings()));
-    public static final Item INCOMPLETE_WHITE_BALL = registerItem("incomplete_white_ball", new Item(new FabricItemSettings()));
+    public static final Item INCOMPLETE_POKE_BALL = registerItem("incomplete_poke_ball", new Item(new FabricItemSettings()));
+    public static final Item INCOMPLETE_AZURE_BALL = registerItem("incomplete_azure_ball", new Item(new FabricItemSettings()));
+    public static final Item INCOMPLETE_CITRINE_BALL = registerItem("incomplete_citrine_ball", new Item(new FabricItemSettings()));
+    public static final Item INCOMPLETE_VERDANT_BALL = registerItem("incomplete_verdant_ball", new Item(new FabricItemSettings()));
+    public static final Item INCOMPLETE_ROSEATE_BALL = registerItem("incomplete_roseate_ball", new Item(new FabricItemSettings()));
+    public static final Item INCOMPLETE_SLATE_BALL = registerItem("incomplete_slate_ball", new Item(new FabricItemSettings()));
+    public static final Item INCOMPLETE_PREMIER_BALL = registerItem("incomplete_premier_ball", new Item(new FabricItemSettings()));
     public static final Item INCOMPLETE_GREAT_BALL = registerItem("incomplete_great_ball", new Item(new FabricItemSettings()));
     public static final Item INCOMPLETE_ULTRA_BALL = registerItem("incomplete_ultra_ball", new Item(new FabricItemSettings()));
     public static final Item INCOMPLETE_SAFARI_BALL = registerItem("incomplete_safari_ball", new Item(new FabricItemSettings()));
@@ -111,6 +111,7 @@ public class ModItems {
     public static final Item INCOMPLETE_ANCIENT_GIGATON_BALL = registerItem("incomplete_ancient_gigaton_ball", new Item(new FabricItemSettings()));
 
     // Misc
+    public static final Item IRON_BALL_BASE = registerItem("iron_ball_base", new Item(new FabricItemSettings()));
     public static final Item EXP_QUARTZ = registerItem("exp_quartz", new Item(new FabricItemSettings()));
     public static final Item CRUSHED_EXP_QUARTZ = registerItem("crushed_exp_quartz", new Item(new FabricItemSettings()));
 
