@@ -9,7 +9,11 @@
   "results": [
     {
       "item": "cobblemon:exp_candy_xs",
-      "count": 2
+      "count": 3
+    },
+    {
+      "item": "cobblemon:exp_candy_xs",
+      "chance": 0.50
     },
     {
       "item": "minecraft:redstone",
