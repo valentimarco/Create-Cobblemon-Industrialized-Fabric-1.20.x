@@ -13,11 +13,11 @@
     },
     {
       "item": "create:experience_nugget",
-      "chance": 0.75
+      "chance": 0.5
     },
     {
       "item": "minecraft:redstone",
-      "chance": 0.25
+      "chance": 0.125
     }
   ]
 }

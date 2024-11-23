@@ -9,15 +9,15 @@
   "results": [
     {
       "item": "cobblemon:exp_candy_xs",
-      "count": 3
+      "count": 1
     },
     {
       "item": "cobblemon:exp_candy_xs",
-      "chance": 0.50
+      "chance": 0.5
     },
     {
       "item": "minecraft:redstone",
-      "chance": 0.75
+      "chance": 0.25
     }
   ]
 }

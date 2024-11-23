@@ -13,15 +13,7 @@
     },
     {
       "item": "cobblemon:exp_candy_xs",
-      "count": 1
-    },
-    {
-      "item": "cobblemon:exp_candy_xs",
       "chance": 0.375
-    },
-    {
-      "item": "minecraft:redstone",
-      "chance": 0.25
     }
   ]
 }

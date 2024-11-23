@@ -18,10 +18,6 @@
     {
       "item": "cobblemon:exp_candy_s",
       "chance": 0.375
-    },
-    {
-      "item": "minecraft:redstone",
-      "chance": 0.25
     }
   ]
 }
