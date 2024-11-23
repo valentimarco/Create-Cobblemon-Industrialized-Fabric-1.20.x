@@ -1,0 +1,18 @@
+{
+	"type": "create:filling",
+	"ingredients": [
+		{
+			"item": "minecraft:glass_bottle"
+		},
+		{
+			"amount": 27000,
+			"fluid": "create_cobblemon:super_potion",
+			"nbt": {}
+		}
+	],
+	"results": [
+		{
+			"item": "cobblemon:super_potion"
+		}
+	]
+}

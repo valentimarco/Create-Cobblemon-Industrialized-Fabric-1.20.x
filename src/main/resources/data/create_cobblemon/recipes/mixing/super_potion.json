@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	"heatRequirement": "heated",
+	"ingredients": [
+		{
+			"fluid": "create_cobblemon:potion",
+			"amount": 81000
+		},
+		{
+			"item": "cobblemon:energy_root"
+		}
+	],
+	"results": [
+		{
+			"fluid": "create_cobblemon:super_potion",
+			"amount": 81000
+		}
+	]
+}
