@@ -1,0 +1,17 @@
+{
+	"type": "create:emptying",
+	"ingredients": [
+		{
+			"item": "cobblemon:paralyze_heal"
+		}
+	],
+	"results": [
+		{
+			"item": "minecraft:glass_bottle"
+		},
+		{
+			"amount": 27000,
+			"fluid": "create_cobblemon:paralyze_heal"
+		}
+	]
+}

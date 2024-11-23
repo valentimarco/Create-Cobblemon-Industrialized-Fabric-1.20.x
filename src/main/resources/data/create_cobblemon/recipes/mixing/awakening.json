@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	"heatRequirement": "heated",
+	"ingredients": [
+		{
+			"fluid": "create_cobblemon:medicinal_brew",
+			"amount": 81000
+		},
+		{
+			"item": "cobblemon:chesto_berry"
+		}
+	],
+	"results": [
+		{
+			"fluid": "create_cobblemon:awakening",
+			"amount": 81000
+		}
+	]
+}

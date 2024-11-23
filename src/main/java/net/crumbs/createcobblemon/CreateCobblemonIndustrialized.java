@@ -1,6 +1,7 @@
 package net.crumbs.createcobblemon;
 
 import net.crumbs.createcobblemon.block.ModBlocks;
+import net.crumbs.createcobblemon.fluids.ModFluids;
 import net.crumbs.createcobblemon.item.ModItemGroups;
 import net.crumbs.createcobblemon.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -17,5 +18,6 @@ public class CreateCobblemonIndustrialized implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModFluids.registerModFluids();
 	}
 }
