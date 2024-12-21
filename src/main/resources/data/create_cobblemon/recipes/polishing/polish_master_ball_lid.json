@@ -8,7 +8,7 @@
   "results": [
     {
       "item": "create_cobblemon:incomplete_master_ball_lid",
-      "nbt": "{SequencedAssembly: {Progress: 0.33333334f, Step: 1, id: \"create_cobblemon:sequenced_master_ball_lid_recipe\"}}"
+      "nbt": "{SequencedAssembly: {Progress: 0.33333334f, Step: 1, id: \"create_cobblemon:assembly/sequenced_master_ball_lid_recipe\"}}"
     }
   ]
 }
